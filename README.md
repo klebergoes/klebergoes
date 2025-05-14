@@ -1,7 +1,5 @@
 # Kleber Goes
 
-**`Sobre`**
-
 Profissional de Data & Analytics com formação em Finanças e pós-graduação em Banco de Dados e Business Intelligence.
 
 ---
