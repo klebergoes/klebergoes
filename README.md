@@ -71,6 +71,42 @@ Profissional de Data & Analytics com formação em Finanças e pós-graduação 
     src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" 
 />
 
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" 
+/>
+
 <br/>
 
 ---
@@ -112,3 +148,14 @@ Os projetos podem ser vistos na íntegra no menu [Repositories](https://github.c
 >
 > Extração automatizada de dados da API do Kaggle, seguida pelas etapas de 
 > ingestão, limpeza, transformação e análise exploratória de dados (EDA).
+
+> [ED_Pipeline_Azure_Databricks_Cotacao_Dolar](https://github.com/klebergoes/ED_Pipeline_Airflow_Postgres_Cotacao_Moeda)
+>
+> Projeto de Engenharia de Dados - Cotação de Todas as Moedas.
+>
+> Pipeline de dados automatizado utilizando Apache Airflow para orquestração de tarefas ETL,
+> com estrutura modular em Python. Extração diária de arquivos CSV da API do Banco Central (PTAX),
+> transformação dos dados em camadas distintas (Staging e Data Warehouse) e carregamento em banco de dados PostgreSQL.
+>
+> O projeto segue arquitetura Inmon, com separação entre tabelas de dimensão e fato,
+> aplicação de SCD2 e criação de views analíticas para validação da carga. Todo o ambiente foi containerizado com Docker e gerenciado com Astro CLI. 
