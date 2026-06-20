@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Profissional de Data & Analytics com formação em Finanças e pós-graduação em Banco de Dados e Business Intelligence.
+Profissional de Data & Analytics com formação técnica em Manutenção Automotiva, graduado em Gestão Financeira e pós-graduado em Banco de Dados e Business Intelligence.
 
 ---
 
@@ -10,101 +10,30 @@ Profissional de Data & Analytics com formação em Finanças e pós-graduação 
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" 
+    alt="BigQuery"
+    title="BigQuery" 
+    src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&labelColor=4285F4&color=4285F4" 
 />
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+    alt="Excel"
+    title="Excel" 
+    src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&labelColor=217346&color=217346" 
 />
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
+    alt="Power BI"
+    title="Power BI" 
+    src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&labelColor=F2C811&color=F2C811" 
 />
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" 
+    alt="Python"
+    title="Python" 
+    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=3776AB&color=3776AB" 
 />
 
 <br/>
@@ -127,18 +56,13 @@ Os projetos podem ser vistos na íntegra no menu [Repositories](https://github.c
 
 ## Sinopse
 
-> [ED_Pipeline_Azure_Databricks_Cotacao_Dolar](https://github.com/klebergoes/ED_Pipeline_Azure_Databricks_Cotacao_Dolar)
+> [ED_Pipeline_GCP_PowerBI_BCB_Cotacao_Moedas](https://github.com/klebergoes/EC_Pipeline_GCP_PowerBI_BCB_Cotacao_Moedas)
 >
-> Projeto de Engenharia de Dados - Dólar comercial (Venda e Compra) - Cotações Diárias
+> Projeto de Engenharia e Análise de Dados - Cotação de Todas as Moedas
 >
-> Pipeline de dados automatizado utilizando Azure Data Factory para 
-> orquestração e extração de dados da API do Banco Central (PTAX), Azure Data Lake Storage 
-> Gen2 para armazenamento de dados e Databricks com Python e Pyspark envolvendo tarefas 
-> de ingestão, limpeza, transformação e carga (ETL) no formato Delta Lake.
+> Desenvolvimento de uma plataforma serverless na GCP para ingestão diária das cotações PTAX do Banco Central, 
+> com pipeline ELT automatizada (Bronze/Silver/Gold), modelagem dimensional no BigQuery e dashboards no Power BI.  
 >
-> O pipeline foi estruturado seguindo a arquitetura em camadas Medalhão (Bronze, Silver, 
-> Gold), com controle de versionamento.
-
 > [AD_Formula_1](https://github.com/klebergoes/AD_Formula_1)
 >
 > Projeto de Análise de Dados - Análise de Performance dos Pilotos Ativos da Fórmula 1. 
@@ -148,14 +72,3 @@ Os projetos podem ser vistos na íntegra no menu [Repositories](https://github.c
 >
 > Extração automatizada de dados da API do Kaggle, seguida pelas etapas de 
 > ingestão, limpeza, transformação e análise exploratória de dados (EDA).
-
-> [ED_Pipeline_Azure_Databricks_Cotacao_Dolar](https://github.com/klebergoes/ED_Pipeline_Airflow_Postgres_Cotacao_Moeda)
->
-> Projeto de Engenharia de Dados - Cotação de Todas as Moedas.
->
-> Pipeline de dados automatizado utilizando Apache Airflow para orquestração de tarefas ETL,
-> com estrutura modular em Python. Extração diária de arquivos CSV da API do Banco Central (PTAX),
-> transformação dos dados em camadas distintas (Staging e Data Warehouse) e carregamento em banco de dados PostgreSQL.
->
-> O projeto segue arquitetura Inmon, com separação entre tabelas de dimensão e fato,
-> aplicação de SCD2 e criação de views analíticas para validação da carga. Todo o ambiente foi containerizado com Docker e gerenciado com Astro CLI. 
